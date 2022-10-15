@@ -5,3 +5,4 @@
 
 ## Unfinished
 - [Dynamic tournament bracket handler for Python](https://github.com/tanrbobanr/bracket-core)
+- [Documentation for an unofficial API for RL6Mans](https://github.com/tanrbobanr/unofficial-rl6mans-api)
