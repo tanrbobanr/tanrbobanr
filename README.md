@@ -1,6 +1,6 @@
 ## Finished/Stable Projects
 - [URL and header preparation tools for Python](https://github.com/tanrbobanr/http-prep) `0.0.5` -> `pip install http-prep -U`
-- [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) -> `pip install pychasing -U`
+- [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) `0.0.4` -> `pip install pychasing -U`
 - [Pretty class representations for Python](https://github.com/tanrbobanr/prepr) `0.0.5` -> `pip install prepr -U`
 
 ## Unfinished
