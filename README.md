@@ -1,7 +1,7 @@
 ## Finished/Stable Projects
-- [URL and header preparation tools for Python](https://github.com/tanrbobanr/http-prep) `0.0.5` -> `pip install http-prep -U`
-- [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) `0.0.4` -> `pip install pychasing -U`
-- [Pretty class representations for Python](https://github.com/tanrbobanr/prepr) `0.0.5` -> `pip install prepr -U`
+- [URL and header preparation tools for Python](https://github.com/tanrbobanr/http-prep) `0.0.5` -> `pip install http-prep`
+- [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) `0.0.4` -> `pip install pychasing`
+- [Pretty class representations for Python](https://github.com/tanrbobanr/prepr) `0.0.5` -> `pip install prepr`
 
 ## Unfinished
 - [Dynamic tournament bracket handler for Python](https://github.com/tanrbobanr/bracket-core)
