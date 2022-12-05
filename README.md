@@ -1,7 +1,9 @@
 ## Finished/Stable Projects
-- [URL and header preparation tools for Python](https://github.com/tanrbobanr/http-prep) `0.0.5` -> `pip install http-prep`
-- [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) `0.0.4` -> `pip install pychasing`
-- [Pretty class representations for Python](https://github.com/tanrbobanr/prepr) `0.0.5` -> `pip install prepr`
+- [URL and header preparation tools for Python](https://github.com/tanrbobanr/http-prep) -> `pip install http-prep`
+- [Pretty class representations for Python](https://github.com/tanrbobanr/prepr) -> `pip install prepr`
+- [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) -> `pip install pychasing`
+- [An asynchronous version of pychasing](https://github.com/tanrbobanr/async-pychasing) -> `pip install async-pychasing`
+- [A modern synchronous and asynchronous function rate limiter](https://github.com/tanrbobanr/rlim) -> `pip install rlim`
 
 ## Unfinished
 - [Dynamic tournament bracket handler for Python](https://github.com/tanrbobanr/bracket-core)
