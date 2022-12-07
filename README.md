@@ -4,6 +4,7 @@
 - [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) -> `pip install pychasing`
 - [An asynchronous version of pychasing](https://github.com/tanrbobanr/async-pychasing) -> `pip install async-pychasing`
 - [A modern synchronous and asynchronous function rate limiter](https://github.com/tanrbobanr/rlim) -> `pip install rlim`
+- [A simple and pythonic system to store, retrieve, and analyze Rocket League replay stats](https://github.com/tanrbobanr/rlstatsdb) -> `pip install rlstatsdb`
 
 ## Unfinished
 - [Dynamic tournament bracket handler for Python](https://github.com/tanrbobanr/bracket-core)
