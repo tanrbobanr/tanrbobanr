@@ -6,6 +6,11 @@
 - [A modern synchronous and asynchronous function rate limiter](https://github.com/tanrbobanr/rlim) -> `pip install rlim`
 - [A simple and pythonic system to store, retrieve, and analyze Rocket League replay stats](https://github.com/tanrbobanr/rlstatsdb) -> `pip install rlstatsdb`
 
+## WIP
+- [A system for making more dynamic and complex checks on discord.py commands](https://github.com/tanrbobanr/dpy-check) -> `pip install dpy-check`
+- [A dialog handler for discord.py to make multipart dialog through Discord easy](https://github.com/tanrbobanr/dpy-dialog) -> `pip install dpy-dialog`
+- [A set of useful administrator and developer tools for discord.py](https://github.com/tanrbobanr/dpy-devtools) -> `pip install dpy-devtools`
+
 ## Unfinished
 - [Dynamic tournament bracket handler for Python](https://github.com/tanrbobanr/bracket-core)
 - [Documentation for an unofficial API for RL6Mans](https://github.com/tanrbobanr/unofficial-rl6mans-api)
