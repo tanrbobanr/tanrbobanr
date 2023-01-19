@@ -12,6 +12,7 @@
 - [A set of useful administrator and developer tools for discord.py](https://github.com/tanrbobanr/dpy-devtools) -> `$ pip install dpy-devtools`
 - [A system for programatically keeping track of various league data](https://github.com/tanrbobanr/league-registrar) -> `$ pip install league-registrar`
 - [A formatter and set of utilities that bring pretty, highly-customizable and colored log messages to the standard logging library](https://github.com/tanrbobanr/plogging) -> `$ pip install plogging`
+- [An easy-to-use and highly customizable formatter used to turn a time value into a countdown string](https://github.com/tanrbobanr/countdown) -> `$ pip install countdown`
 
 ## Unfinished
 - [Dynamic tournament bracket handler for Python](https://github.com/tanrbobanr/bracket-core)
