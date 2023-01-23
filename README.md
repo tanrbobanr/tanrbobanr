@@ -1,4 +1,4 @@
-## Finished/Stable Projects
+## Semi-Stable
 - [URL and header preparation tools for Python](https://github.com/tanrbobanr/http-prep) -> `$ pip install http-prep`
 - [Pretty class representations for Python](https://github.com/tanrbobanr/prepr) -> `$ pip install prepr`
 - [Ballchasing API wrapper for Python](https://github.com/tanrbobanr/pychasing) -> `$ pip install pychasing`
